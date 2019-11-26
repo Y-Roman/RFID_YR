@@ -1,7 +1,7 @@
 #Adeept RC522 RFID C Version Code
 
 ##Usage
-1. git clone https://github.com/adeept/Adeept_RFID_RC522_C_Code.git
+1. git clone https://github.com/Y-Roman/RFID_YR.git
 
 2. cd Adeept_RFID_RC522_C_Code/
 
